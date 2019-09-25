@@ -1,0 +1,65 @@
+{
+  "id": "1434971",
+  "name": "myReadingIcon",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "109771",
+      "name": "person2",
+      "font_class": "person2",
+      "unicode": "e63a",
+      "unicode_decimal": 58938
+    },
+    {
+      "icon_id": "171391",
+      "name": "back",
+      "font_class": "back",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "248950",
+      "name": "brightness",
+      "font_class": "brightness",
+      "unicode": "e67b",
+      "unicode_decimal": 59003
+    },
+    {
+      "icon_id": "949536",
+      "name": "aui-icon-cart",
+      "font_class": "aui-icon-cart",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "4448558",
+      "name": "more",
+      "font_class": "more",
+      "unicode": "e67c",
+      "unicode_decimal": 59004
+    },
+    {
+      "icon_id": "5317171",
+      "name": "menu",
+      "font_class": "menu",
+      "unicode": "e774",
+      "unicode_decimal": 59252
+    },
+    {
+      "icon_id": "9567582",
+      "name": "progress",
+      "font_class": "progress",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "9567593",
+      "name": "share",
+      "font_class": "share",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    }
+  ]
+}
