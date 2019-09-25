@@ -4,13 +4,13 @@
 
 ## Build Setup
 
+``` bash
 # 安装依赖
 $ npm install node-sass sass-loader --save-dev
 
 # 阅读器引擎
 $ npm install epubjs --save
 
-``` bash
 # install dependencies
 npm install
 
