@@ -5,13 +5,10 @@
 ## Build Setup
 
 ``` bash
-# 安装依赖
-$ npm install node-sass sass-loader --save-dev
-
 # 阅读器引擎
 $ npm install epubjs --save
 
-# install dependencies
+# 依赖
 npm install
 
 # serve with hot reload at localhost:8080

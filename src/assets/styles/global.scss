@@ -12,3 +12,23 @@ $fontSize: 37.5;
   justify-content: center;
   align-items: center;
 }
+
+//iconfont图标默认样式
+.icon{
+  color: #333;
+  font-size: px2rem(20);
+}
+
+//过渡动画
+.up-enter, .up-leave-to{
+  transform: translate3d(0,px2rem(108),0);
+}
+.up-enter-to,.up-leave,.down-enter-to,.down-leave{
+  transform: translate3d(0,0,0);
+}
+.up-enter-active,.up-leave-active,.down-enter-active,.down-leave-active{
+  transition: all .3s linear;
+}
+.down-enter, .down-leave-to{
+  transform: translate3d(0,-100%,0);
+}

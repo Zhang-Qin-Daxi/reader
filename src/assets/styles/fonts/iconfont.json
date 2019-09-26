@@ -48,6 +48,13 @@
       "unicode_decimal": 59252
     },
     {
+      "icon_id": "9567573",
+      "name": "A",
+      "font_class": "A",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
       "icon_id": "9567582",
       "name": "progress",
       "font_class": "progress",
