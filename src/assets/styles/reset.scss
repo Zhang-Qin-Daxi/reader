@@ -143,3 +143,14 @@ body {
 html::-webkit-scrollbar {
   width: 0;
 }
+
+/*横条样式*/
+input[type=range] {
+  -webkit-appearance: none;/*清除系统默认样式*/
+  outline: none;
+}
+ 
+/*拖动块的样式*/
+input[type=range]::-webkit-slider-thumb {
+  -webkit-appearance: none;/*清除系统默认样式*/
+}
